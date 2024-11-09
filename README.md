@@ -1,8 +1,8 @@
-##Stroke Prediction Data Analysis Project
+## Stroke Prediction Data Analysis Project
 
 This project explores a stroke dataset to analyze the factors that may influence the occurrence of strokes in individuals. It involves data cleaning, exploratory data analysis (EDA), visualization, and the development of a predictive model to classify whether an individual is at risk of having a stroke based on various health-related features.
 
-###Table of Contents
+### Table of Contents
 Project Overview
 Dataset Information
 Installation
