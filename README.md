@@ -12,6 +12,6 @@ The data is confidential, therefore  we dont know what locations, demographics a
 
 **Maxwell Adigwe**
 
-[Linkedin](linkedin.com/in/maxwell-adigwe-7053a4312)
+[Check me on Linkedin](linkedin.com/in/maxwell-adigwe-7053a4312)
 
-[E-mail](maxwelladigwe1993@gmail.com)
+[Contact me via E-mail](maxwelladigwe1993@gmail.com)
